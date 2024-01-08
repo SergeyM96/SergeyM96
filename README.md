@@ -93,7 +93,8 @@
 <!-- Contact Section -->
 <h2 align="center">📫 Connect with Me</h2>
 
-<!-- Social Media Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/sergey-morozov-26043a240/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/sergey-morozov-26043a240/">LinkedIn</a> |
+  [Email me](mailto:globaldevsm@gmail.com)
 </p>
+
