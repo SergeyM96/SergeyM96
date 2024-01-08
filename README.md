@@ -95,6 +95,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sergey-morozov-26043a240/">LinkedIn</a> |
-  [Email me](mailto:globaldevsm@gmail.com)
+  <a href="mailto:globaldevsm@gmail.com">Email me</a>
 </p>
 
