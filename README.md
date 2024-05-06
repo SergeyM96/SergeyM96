@@ -1,4 +1,7 @@
 <!-- Header -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJnYWQ1dHFzcjZtbHFkdzgzamxvangyYTN1eDR2MXBrbDA3cnp1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WSBeyxvC1jH496xQGA/giphy.gif" width="300"/>
+</div>
 <h1 align="center">👋 Welcome to My GitHub Page! 🚀</h1>
 
 <!-- Introduction -->
@@ -32,9 +35,15 @@
 <!-- Contact Section -->
 <h2 align="center">📫 Connect with Me</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sergey-morozov-26043a240/">LinkedIn</a> |
-  <a href="mailto:globaldevsm@gmail.com">Email</a> |
-  <a href="https://leetcode.com/u/SerjM/">Leetcode</a> 
-</p>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/sergey-morozov-26043a240/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:globaldevsm@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://leetcode.com/u/SerjM/">
+  <img src="https://img.shields.io/badge/LeetCode-00C7B7?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
+  </a>
+</div>
 
