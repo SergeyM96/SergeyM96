@@ -23,63 +23,7 @@
 <!-- Tools & Technologies Section -->
 <h2 align="center">🛠️ Tools & Technologies</h2>
 
-<!-- Technologies List -->
-<ul align="center">
-   <li>📦 <strong>Build Automation</strong>:
-    <ul>
-      <li>Maven</li>
-      <li>Gradle</li>
-      <li>Fastlane</li>
-      <li>PyBuilder</li>
-    </ul>
-  </li>
 
-  
-  <li>🌐 <strong>Version Control</strong>:
-    <ul>
-      <li>Git</li>
-      <li>GitHub</li>
-    </ul>
-  </li>
-
-  
-  <li>📊 <strong>Database Interaction</strong>:
-    <ul>
-      <li>Hibernate</li>
-      <li>SQLAlchemy</li>
-      <li>Firebase Realtime Database</li>
-      <li>Postman</li>
-      <li>MongoDB</li>
-    </ul>
-  </li>
-
-  
-  <li>📦 <strong>Reporting</strong>:
-    <ul>
-      <li>JasperReports</li>
-      <li>Microsoft Power BI</li>
-      <li>Tableau</li>
-    </ul>
-  </li>
-
-  
-  <li>✉️ <strong>Mailing</strong>:
-    <ul>
-      <li>JavaMail</li>
-      <li>SMTP (Mail service in python)</li>
-    </ul>
-  </li>
-
-  
-  <li>🌐 <strong>Front-end Frameworks</strong>:
-    <ul>
-      <li>Flexbox</li>
-      <li>Bootstrap</li>
-      <li>JavaFX & SceneBuilder</li>
-      <li>React.js</li>
-      <li>Angular</li>
-    </ul>
-  </li>
 
 <!-- About Me Section -->
 <h2 align="center">🌟 About Me</h2>
