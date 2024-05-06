@@ -14,10 +14,10 @@
 <ul>
   <li>💻 <strong>Java</strong>: Solid understanding and implementation of OOP, Data Structures, and Algorithms.</li>
   <li>🐍 <strong>Python</strong>: Solid understanding and implementation of Python fundamentals, specializing in data analysis, web scraping, automation, and QA automation script writing with Selenium.</li>
-  <li>📱  <strong>Android</strong>: Experience in app development with Java and Android Studio.</li>
-  <li>🖥️ <strong>Full-stack</strong>: Expertise in React (MERN), Angular, and Postman for API testing.</li>
+  <li>📱  <strong>Android</strong>: Experience in app development with Java and Android Studio, troubleshooting and problem solving.</li>
+  <li>🖥️ <strong>Full-stack</strong>: Experience in React (MERN), Angular, and Postman for API testing, HTML, CSS, JS, TS.</li>
   <li>🐧 <strong>Linux</strong>: Proficient in Linux fundamentals (Ubuntu/Kali) and Oracle VM.</li>
-  <li>📊 <strong>Databases</strong>: Knowledge of MySQL Workbench, SQL(SSMS), and Firebase.</li>
+  <li>📊 <strong>Databases</strong>: Solid understanding and implementation of MySQL Workbench, SQL(SSMS), and Firebase.</li>
 </ul>
 
 <!-- About Me Section -->
