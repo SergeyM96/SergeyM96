@@ -12,18 +12,13 @@
 
 <!-- Skills List -->
 <ul>
-  <li>💻 <strong>Java</strong>: Proficient in OOP, Data Structures, and Algorithms.</li>
-  <li>🐍 <strong>Python</strong>: Solid understanding of Python fundamentals.</li>
+  <li>💻 <strong>Java</strong>: Solid understanding and implementation of OOP, Data Structures, and Algorithms.</li>
+  <li>🐍 <strong>Python</strong>: Solid understanding and implementation of Python fundamentals, specializing in data analysis, web scraping, automation, and QA automation script writing with Selenium.</li>
   <li>📱  <strong>Android</strong>: Experience in app development with Java and Android Studio.</li>
-  <li>🖥️ <strong>Full-stack</strong>: Expertise in React (MERN stack), Angular, and Postman for API testing.</li>
-  <li>🐧 <strong>Linux</strong>: Proficient in Linux fundamentals and Oracle VM.</li>
-  <li>📊 <strong>Databases</strong>: Knowledge of MySQL Workbench, SQL, and Firebase.</li>
+  <li>🖥️ <strong>Full-stack</strong>: Expertise in React (MERN), Angular, and Postman for API testing.</li>
+  <li>🐧 <strong>Linux</strong>: Proficient in Linux fundamentals (Ubuntu/Kali) and Oracle VM.</li>
+  <li>📊 <strong>Databases</strong>: Knowledge of MySQL Workbench, SQL(SSMS), and Firebase.</li>
 </ul>
-
-<!-- Tools & Technologies Section -->
-<h2 align="center">🛠️ Tools & Technologies</h2>
-
-
 
 <!-- About Me Section -->
 <h2 align="center">🌟 About Me</h2>
@@ -39,6 +34,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sergey-morozov-26043a240/">LinkedIn</a> |
-  <a href="mailto:globaldevsm@gmail.com">Email</a>
+  <a href="mailto:globaldevsm@gmail.com">Email</a> |
+  <a href="https://leetcode.com/u/SerjM/">Leetcode</a> 
 </p>
 
